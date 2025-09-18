@@ -24,6 +24,6 @@ Gem::Specification.new do |s|
   s.add_dependency "connection_pool", ">= 2.2"
   s.add_dependency "dotenv", ">= 2.7"
   s.add_dependency "json", ">= 2.1.0"
-  s.add_dependency "jwt", ">= 2.7"
+  s.add_dependency "jwt", ">= 2.2"
   s.add_dependency "retryable", ">= 3.0"
 end
